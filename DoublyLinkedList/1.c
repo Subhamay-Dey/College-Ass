@@ -46,6 +46,25 @@ void insertEnd(int value) {
     n->prev = temp;
 }
 
+void deleteStart() {
+    struct node *temp = head;
+
+    if(head == NULL) {
+        printf("Empty list");
+    }
+
+    head = head->next;
+    if(head != NULL) {
+        head->prev = NULL;
+    }
+
+    free(temp);
+}
+
+void deleteEnd() {
+    
+}
+
 
 int main () {
     int choice, val, key;
