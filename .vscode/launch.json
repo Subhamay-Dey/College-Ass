@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/COM/College-Ass/Searching/LinearSearch",
-      "program": "c:/Users/COM/College-Ass/Searching/LinearSearch/build/Debug/outDebug",
+      "cwd": "c:/Users/COM/College-Ass/Searching/BinarySearch",
+      "program": "c:/Users/COM/College-Ass/Searching/BinarySearch/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
